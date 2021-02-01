@@ -1,2 +1,2 @@
 # quiz-web
-http://piemusician.github.io/quiz-web
+https://piemusician.github.io/quiz-web
