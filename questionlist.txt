@@ -1,0 +1,62 @@
+
+*** Questions List ***
+
+Q.1: 6 + 3 + 7= ____ ?
+		option 0 : 16 <---
+		option 1 : 13
+		option 2 : 24
+		option 3 : 25
+		
+Q.2: 36 + 23 + 17= ____ ?
+		option 0 : 26
+		option 1 : 59
+		option 2 : 76 <---
+		option 3 : 40
+		
+Q.3: 126 + 23 + 17= ____ ?
+		option 0 : 266
+		option 1 : 200
+		option 2 : 186
+		option 3 : 166 <----
+
+Q.4: 8 + 2 + 5= ____ ?
+		option 0 : 15 <----
+		option 1 : 20
+		option 2 : 16
+		option 3 : 14
+
+Q.5: 38 + 22 + 75= ____ ?
+		option 0 : 155
+		option 1 : 135 <----
+		option 2 : 132
+		option 3 : 129
+
+Q.6: 18 + 62 + 85= ____ ?
+		option 0 : 8
+		option 1 : 154
+		option 2 : 165 <----
+		option 3 : 188
+
+Q.7: 9 + 4 + 1 + 6= ____ ?
+		option 0 : 24
+		option 1 : 12
+		option 2 : 100
+		option 3 : 20 <----
+
+Q.8: 29 + 34 + 41 + 16= ____ ?
+		option 0 : 120 <----
+		option 1 : 132
+		option 2 : 119
+		option 3 : 144
+
+Q.9: 81 + 34 + 19 + 56= ____ ?
+		option 0 : 200
+		option 1 : 190 <----
+		option 2 : 123
+		option 3 : 189
+
+Q.10: 62 + 34 + 78 + 18= ____ ?
+		option 0 : 189
+		option 1 : 191
+		option 2 : 192 <-----
+		option 3 : 132
